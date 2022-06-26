@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Go and Docker  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I love philosophy 
   
 
 <br/>  
