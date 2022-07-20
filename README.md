@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anish, a full-time full-stack developer😎</div>  
+### <div align="center">I'm Anish, a full-stack developer😎</div>  
   
 
 - 🔭 I’m currently working on [Tribe](https://tribe-a32a2.web.app)  
